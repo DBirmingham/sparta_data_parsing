@@ -11,7 +11,7 @@ Simply clone the repository to your computer to get started with this rspec intr
 ### Prerequisites
 
 This was done in Ruby 2.4.0 older versions may not be compatible.
-see [here](https://stackoverflow.com/questions/38194032/how-to-update-ruby-version-2-0-0-to-the-latest-version-in-mac-osx-yosemite) for instructions on updating your Ruby version (on Mac)
+See [here](https://stackoverflow.com/questions/38194032/how-to-update-ruby-version-2-0-0-to-the-latest-version-in-mac-osx-yosemite) for instructions on updating your Ruby version (on Mac)
 
 ## Running Tests
 
