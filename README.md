@@ -1,5 +1,8 @@
 # sparta_data_parsing
 
+## Introduction
+
+This set of work involves looking into understanding data, how to use and access it in new ways and using all of this alongside rspec. Within this repo you will find examples of array, hash and json data usage and manipulation.
 
 ## Getting started
 
