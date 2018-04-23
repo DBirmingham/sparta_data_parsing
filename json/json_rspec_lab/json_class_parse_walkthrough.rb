@@ -9,8 +9,8 @@ class ParseJson
   # Initialise the read and parsing of the JSON file
   # When providing an argument to an initialise method means you must give class initialisation with the argument
 
-  def initialize json_file
-    @json_file = JSON.parse(File.read(json_file))
+  def initialize json
+    @json_file = JSON.parse(json)
     @date = @json_file["date"]
     @base = @json_file["base"]
     @rates = @json_file["rates"]
